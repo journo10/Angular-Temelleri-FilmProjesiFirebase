@@ -1,0 +1,154 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Film 1",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "1.jpeg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Film 2",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "2.jpeg",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "title": "Film 3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "3.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 4,
+      "title": "Film 4",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "4.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 5,
+      "title": "Film 5",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "5.jpeg",
+      "categoryId": 3
+    },
+    {
+      "id": 6,
+      "title": "Film 6",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "6.jpeg",
+      "categoryId": 3
+    },
+    {
+      "id": 7,
+      "title": "Film 7",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "7.jpeg",
+      "categoryId": 4
+    },
+    {
+      "id": 8,
+      "title": "Film 8",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "8.jpeg",
+      "categoryId": 4
+    },
+    {
+      "id": 9,
+      "title": "Film 9",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "9.jpeg",
+      "categoryId": 5
+    },
+    {
+      "id": 10,
+      "title": "Film 10",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde facilis, animi provident tempore eum, quae soluta, maxime nisi at repellat tempora. Quidem voluptatum eos in quibusdam numquam, modi, inventore quo iusto corrupti rem soluta harum eveniet quod? Ad, sit deserunt, iusto adipisci animi quo sequi facere velit debitis, blanditiis magni!",
+      "imageUrl": "10.jpeg",
+      "categoryId": 5
+    },
+    {
+      "id": 11,
+      "title": "Film 11",
+      "description": "Güzel bir film",
+      "imageUrl": "7.jpeg",
+      "isPopuler": false,
+      "datePublished": 1630003096599,
+      "categoryId": "3"
+    },
+    {
+      "id": 12,
+      "title": "Film 12",
+      "description": "İdare eder....",
+      "imageUrl": "5.jpeg",
+      "isPopuler": false,
+      "datePublished": 1630003221505,
+      "categoryId": "5"
+    },
+    {
+      "id": 13,
+      "title": "Film 13",
+      "description": "idare eder...",
+      "imageUrl": "8.jpeg",
+      "isPopuler": false,
+      "datePublished": 1630008010672,
+      "categoryId": "2"
+    },
+    {
+      "id": 14,
+      "title": "Film 14",
+      "description": "Güzel bir film tavsiye ederim.",
+      "imageUrl": "4.jpeg",
+      "isPopuler": false,
+      "datePublished": 1630083918898,
+      "categoryId": "2"
+    },
+    {
+      "id": 15,
+      "title": "Film 15",
+      "description": "idare eder.",
+      "imageUrl": "6.jpeg",
+      "isPopuler": false,
+      "datePublished": 1630084604301,
+      "categoryId": "2"
+    },
+    {
+      "id": 16,
+      "title": "Film 16",
+      "description": "idare eder 2",
+      "imageUrl": "3.jpeg",
+      "isPopuler": false,
+      "datePublished": 1630097583427,
+      "categoryId": "4"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Macera"
+    },
+    {
+      "id": 2,
+      "name": "Romantik"
+    },
+    {
+      "id": 3,
+      "name": "Dram"
+    },
+    {
+      "id": 4,
+      "name": "Savaş"
+    },
+    {
+      "id": 5,
+      "name": "Bilim-Kurgu"
+    },
+    {
+      "id": 6,
+      "name": "Belgesel"
+    }
+  ]
+}
